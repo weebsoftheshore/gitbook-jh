@@ -1,0 +1,3 @@
+# Side Event
+
+Judges set for side events act as regular floor judges, for the most part. The only considerations given might be that side events will have other event structures and types compared to the main event and may have specific rules or procedures to follow, such as for drafts. Side event judges are typically segmented off from floor judges during Day 2 of premier events, where the staffing requirements for main event judges decline as a result of having fewer people to monitor. Judging at these side events may typically adopt a more casual approach to issuing penalties for infractions, particularly in cases such as product features (e.g. Re:Collection previews).

@@ -1,0 +1,7 @@
+# What is a Judge?
+
+A Judge is a member of the Grand Archive community that has proven some degree of qualification regarding understanding not only the rules of the game but also guidelines regarding competitive settings and how to enforce them. At a minimum, a Judge has passed a qualification exam testing for fundamental knowledge of rules and interpretations of violations and corrective procedures. This status is reflected within Omnidex where Judges may earn experience by event attendance and other means to showcase their commitment to the community. After reaching certain thresholds of experience and service, Judges may take higher-level exams to qualify them for higher ranks in certification (WIP). At high enough ranks, Judges become eligible to apply as a Head Judge for events.
+
+A Judge fundamentally resolves questions regarding specific interactions or uncertain interpretations of the Comprehensive Rulebook. In applying interpretations of the Tournament Regulations and Guidelines, Judges help protect a fair, competitive environment for players and serve as advocates for players in tournaments. They serve as a point of contact to convey feedback and concerns to tournament staff and can assist players with certain requests related to the tournament environment.
+
+Judges may hold roles related to judging more in line with the bigger-picture responsibilities, such as Head Judge or Assistant Head Judge. Specifics of these roles, what they entail, and those who may qualify for such positions will be discussed in other sections.

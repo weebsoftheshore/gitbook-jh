@@ -1,0 +1,6 @@
+# Game Knowledge
+
+Fundamentally, judges are required to have a deeper level of the mechanics and rules of the game compared to an average player. Attaining judge status is a sign that a player has studied for the certification test and possesses sufficient knowledge to assume the judge role. At the base level, technical knowledge is necessary, such as explaining mechanics and interactions. In a tournament setting, judges must also be aware of the tournament format and structure. At higher proficiencies, judges should be able to interpret the rules, apply corrective procedures, and issue the correct infractions and penalties. At the highest levels, judges should be able to not only effectively argue for an interpretation but also frame any interpretations and understandings of the rules within the philosophies for which they were established. That is, judges should be able to effectively understand the rules and frameworks of tournament policies to promote tournament integrity. Much of the game and tournament knowledge is cultivated through experience; the highest level judges push themselves to judge at premier events, the best settings to learn how to judge at a high level.&#x20;
+
+
+
