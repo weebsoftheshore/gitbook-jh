@@ -4,7 +4,4 @@ Judges seldom act alone. At large tournaments, teams of judges are organized wit
 
 By working in a team and relying on the proficiency of fellow judges (especially a Head Judge), not only will individual skills as a judge grow appreciably, but players and tournament organizers can be more confident that an event was handled as fairly as possible and with as much circumspection as possible.
 
-Teamwork is a must at Premier-level events, such as Nationals and Ascents. In these settings, judges can expect that they will be organized into teams for specifics tasks. For example, you might be tasked with performing routine deck checks between rounds at randomly selected tables, or you might be selected as one of the stream judges for media coverage. These specific roles might hone specific skills related to judging and builds on the expectations of judging for Grand Archive. Higher-tier judges may be selected to lead these teams or be assigned as a Head Judge or Assistant Head Judge for these types of events.
-
-
-
+Teamwork is a must at premier-level events, such as Nationals and Ascents. In these settings, judges can expect to be organized into teams for specific tasks. For example, you might be tasked with performing routine deck checks between rounds at randomly selected tables, or you might be selected as one of the stream judges for media coverage. These roles might hone specific judging skills and build on the expectations of judging for Grand Archive. Higher-tier judges may be selected to lead these teams or be assigned as a Head Judge or Assistant Head Judge for these types of events.
